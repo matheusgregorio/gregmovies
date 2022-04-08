@@ -1,4 +1,4 @@
-# Projeto React - MovieDB API ❤️
+# Projeto React - MovieDB API
 
 Este projeto usa a biblioteca React para consumir uma lista de filmes populares da API MovieDB
 
